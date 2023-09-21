@@ -1,4 +1,5 @@
 //your JS code here. If required.
+
 // Find the target element by its id
 const targetElement = document.getElementById('level');
 
@@ -17,4 +18,4 @@ while (currentElement && currentElement.tagName !== 'HTML') {
 }
 
 // Display the DOM level using an alert
-alert(`The level of the element is: ${domLevel}`);
+alert(`The level of the element is: ${domLevel}`); 
