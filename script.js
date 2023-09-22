@@ -12,4 +12,4 @@ while (true) {
     domLevel++;
 }
 // Display the DOM level using an alert
-alert(`The level of the element is: ${Level}`); 
+alert(`The level of the element is: ${domLevel}`); 
